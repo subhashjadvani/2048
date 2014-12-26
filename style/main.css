@@ -296,9 +296,9 @@ hr {
   z-index: 1; }
 
 .grid-row {
-  margin-bottom: 0px; }
+  margin-bottom: 15px; }
   .grid-row:last-child {
-    margin-bottom: 15px; }
+    margin-bottom: 0; }
   .grid-row:after {
     content: "";
     display: block;
